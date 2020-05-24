@@ -9,7 +9,6 @@ Simple REST API project using the CRUD method with Spring Boot.
 * Spring Cache
 * Spring Actuator
 * SpringFox Swagger
-* 
 
 ## How to run
 
